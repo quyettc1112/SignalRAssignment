@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRAssignment", "SignalRAssignment\SignalRAssignment.csproj", "{DAAD7D62-C51C-45F5-B35C-7B8BEE8B9EC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRAssignment", "SignalRAssignment\SignalRAssignment.csproj", "{DAAD7D62-C51C-45F5-B35C-7B8BEE8B9EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaAPP", "PizzaAPP\PizzaAPP.csproj", "{81D4411B-58C6-45A2-9FEC-FCBA3E618DBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DAAD7D62-C51C-45F5-B35C-7B8BEE8B9EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAAD7D62-C51C-45F5-B35C-7B8BEE8B9EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAAD7D62-C51C-45F5-B35C-7B8BEE8B9EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D4411B-58C6-45A2-9FEC-FCBA3E618DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D4411B-58C6-45A2-9FEC-FCBA3E618DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D4411B-58C6-45A2-9FEC-FCBA3E618DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D4411B-58C6-45A2-9FEC-FCBA3E618DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
